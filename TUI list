@@ -1,0 +1,449 @@
+#EXTM3U
+#EXTINF:-1 group-title="VTV",VTV1 HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.117:10254
+#EXTINF:-1 group-title="VTV",VTV2 HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.31:10594
+#EXTINF:-1 group-title="VTV",VTV3 HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.118:10260
+#EXTINF:-1 group-title="VTV",VTV4 HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.106:10600
+#EXTINF:-1 group-title="VTV",VTV5 HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.33:10606
+#EXTINF:-1 group-title="VTV",VTV6 HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.119:10266
+#EXTINF:-1 group-title="VTV",VTV7 HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.202:10996
+#EXTINF:-1 group-title="VTV",VTV8 HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.34:10612
+#EXTINF:-1 group-title="VTV",VTV9 HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.35:10618
+#EXTINF:-1 group-title="Quốc tế",AXN HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.121:10660
+#EXTINF:-1 group-title="Quốc tế",Fox Movies HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.77:8436
+#EXTINF:-1 group-title="Quốc tế",HBO HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.138:10648
+#EXTINF:-1 group-title="Quốc tế",Warner Bros HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.51:10516
+#EXTINF:-1 group-title="Quốc tế",CINEMAX HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.117:10654
+#EXTINF:-1 group-title="Quốc tế",RED BY HBO HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.103:10840
+#EXTINF:-1 group-title="Quốc tế",MAX BY HBO HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.139:10654
+#EXTINF:-1 group-title="Quốc tế",FOX HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.120:8448
+#EXTINF:-1 group-title="Quốc tế",FOX Family Movies HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.214:11206
+#EXTINF:-1 group-title="Quốc tế",National Geographic HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.1:7980
+#EXTINF:-1 group-title="Quốc tế",Discovery Channel HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.132:10528
+#EXTINF:-1 group-title="Quốc tế",Animal Planet HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.139:10702
+#EXTINF:-1 group-title="Quốc tế",Discovery Asia HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.53:10528
+#EXTINF:-1 group-title="Quốc tế",Nat Geo People HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.76:8430
+#EXTINF:-1 group-title="Quốc tế",Nat Geo Wild HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.123:8454
+#EXTINF:-1 group-title="Quốc tế",Asian Food Channel HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.129:9570
+#EXTINF:-1 group-title="Quốc tế",DISNEY CHANNEL HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.143:10678
+#EXTINF:-1 group-title="Quốc tế",CARTOON NETWORK HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.144:10684
+#EXTINF:-1 group-title="Quốc tế",Disney Junior HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.200:11122
+#EXTINF:-1 group-title="Quốc tế",MTV HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.171:10834
+#EXTINF:-1 group-title="Quốc tế",Clubbing TV HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.194:11086
+#EXTINF:-1 group-title="Quốc tế",FOX SPORTS HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.111:10666
+#EXTINF:-1 group-title="Quốc tế",FOX SPORTS 2 HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.129:10672
+#EXTINF:-1 group-title="Quốc tế",FoxLife HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.78:8442
+#EXTINF:-1 group-title="Quốc tế",arirang
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.43:8238
+#EXTINF:-1 group-title="Quốc tế",Da Vinci Kids HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.131:9582
+#EXTINF:-1 group-title="Quốc tế",DW-TV HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.233:10416
+#EXTINF:-1 group-title="Quốc tế",DW (English) (HD 6Mbps)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.154:10416
+#EXTINF:-1 group-title="Quốc tế",DW (Deutsch)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.168:10428
+#EXTINF:-1 group-title="Quốc tế",KBS World
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.136:9612
+#EXTINF:-1 group-title="Quốc tế",MEDIACORP
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.5:8004
+#EXTINF:-1 group-title="Quốc tế",NHK WORLD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.8:8022
+#EXTINF:-1 group-title="Quốc tế",NHK WORLD HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.72:8406
+#EXTINF:-1 group-title="Quốc tế",NHK Premium
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.172:10494
+#EXTINF:-1 group-title="Quốc tế",Outdoor Channel HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.107:10218
+#EXTINF:-1 group-title="Quốc tế",POCCNR PTP-Tiếng Nga
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.127:8544
+#EXTINF:-1 group-title="Quốc tế",Rai Italia
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.124:8358
+#EXTINF:-1 group-title="Quốc tế",RTTiếng Nga
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.125:8538
+#EXTINF:-1 group-title="Quốc tế",TV5MONDE
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.45:8250
+#EXTINF:-1 group-title="Quốc tế",Adtec 1
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.239:10452
+#EXTINF:-1 group-title="Quốc tế",ABC
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.244:10482
+#EXTINF:-1 group-title="Quốc tế",FASHION TV HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.52:10522
+#EXTINF:-1 group-title="Quốc tế",Channel News Asia HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.55:10540
+#EXTINF:-1 group-title="Quốc tế",OPT1
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.128:8352
+#EXTINF:-1 group-title="Quốc tế",Baby TV HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.128:10624
+#EXTINF:-1 group-title="Quốc tế",Bloomberg HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.157:10696
+#EXTINF:-1 group-title="Quốc tế",[V] HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.144:9588
+#EXTINF:-1 group-title="Quốc tế",CNA HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.155:10540
+#EXTINF:-1 group-title="Quốc tế",CNN HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.153:10690
+#EXTINF:-1 group-title="Quốc tế",TLC HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.156:10708
+#EXTINF:-1 group-title="Quốc tế",CNBC
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.179:10488
+#EXTINF:-1 group-title="Quốc tế",Dragon TV
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.185:11032
+#EXTINF:-1 group-title="Quốc tế",Hunan
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.188:11050
+#EXTINF:-1 group-title="Quốc tế",MSTV
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.192:11074
+#EXTINF:-1 group-title="Quốc tế",Phoenix
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.191:11068
+#EXTINF:-1 group-title="Quốc tế",Phoenix Infonews
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.190:11062
+#EXTINF:-1 group-title="Quốc tế",Shenzhen Satellite TV
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.186:11038
+#EXTINF:-1 group-title="Quốc tế",Xing Kong
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.189:11056
+#EXTINF:-1 group-title="Quốc tế",Youman
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.187:11044
+#EXTINF:-1 group-title="Quốc tế",TVE (HD 6.5Mbps)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.205:11152
+#EXTINF:-1 group-title="Quốc tế",Aljazeera
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.206:11158
+#EXTINF:-1 group-title="Quốc tế",Filmy
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.210:11182
+#EXTINF:-1 group-title="Quốc tế",France 24
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.135:9606
+#EXTINF:-1 group-title="Quốc tế",FRANCE 24 (English)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.145:9606
+#EXTINF:-1 group-title="Quốc tế",FRANCE 24 (Francais)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.207:11164
+#EXTINF:-1 group-title="Quốc tế",Sahara One
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.209:11176
+#EXTINF:-1 group-title="Quốc tế",YTN
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.208:11170
+#EXTINF:-1 group-title="VTC",VTC1 HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.173:10846
+#EXTINF:-1 group-title="VTC",VTC2
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.57:8322
+#EXTINF:-1 group-title="VTC",VTC3 HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.81:8460
+#EXTINF:-1 group-title="VTC",VTC4 HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.147:10714
+#EXTINF:-1 group-title="VTC",VTC5 HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.136:10720
+#EXTINF:-1 group-title="VTC",VTC7 HD-Today TV
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.151:10726
+#EXTINF:-1 group-title="VTC",VTC8
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.39:10642
+#EXTINF:-1 group-title="VTC",VTC9 HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.141:10732
+#EXTINF:-1 group-title="VTC",VTC10-Nét Việt
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.214:9258
+#EXTINF:-1 group-title="VTC",VTC11-kids TV
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.61:8340
+#EXTINF:-1 group-title="VTC",VTC12
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.193:11080
+#EXTINF:-1 group-title="VTC",VTC13-iTV HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.74:8418
+#EXTINF:-1 group-title="VTC",VTC14
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.216:9270
+#EXTINF:-1 group-title="VTC",VTC16-3NTV
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.215:9264
+#EXTINF:-1 group-title="HTV",HTV1
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.35:8184
+#EXTINF:-1 group-title="HTV",HTV2 Vie Channel (HD 7Mbps)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.182:9306
+#EXTINF:-1 group-title="HTV",HTV3
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.104:8598
+#EXTINF:-1 group-title="HTV",HTV4
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.25:8124
+#EXTINF:-1 group-title="HTV",HTV7 HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.223:9312
+#EXTINF:-1 group-title="HTV",HTV9 HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.224:9318
+#EXTINF:-1 group-title="HTV",HTV Thể thao
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.24:8118
+#EXTINF:-1 group-title="HTVC",HTVC-Ca nhạc
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.126:8730
+#EXTINF:-1 group-title="HTVC",HTVC-Du lịch & Cuộc sống
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.221:9300
+#EXTINF:-1 group-title="HTVC",HTVC-Gia đình
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.170:8994
+#EXTINF:-1 group-title="HTVC",HTVC-Phim HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.133:9594
+#EXTINF:-1 group-title="HTVC",HTVC-Phụ nữ
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.127:8736
+#EXTINF:-1 group-title="HTVC",HTVC-Thuần Việt
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.22:8106
+#EXTINF:-1 group-title="HTVC",HTVC-Thuần Việt HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.134:9600
+#EXTINF:-1 group-title="SCTV",SCTV8
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.32:8166
+#EXTINF:-1 group-title="VTVCab",VTVCab1-Giải trí TV
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.143:8832
+#EXTINF:-1 group-title="VTVCab",VTVCab2-Phim Việt
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.168:8982
+#EXTINF:-1 group-title="VTVCab",VTVCab3-Thể thao TV HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.207:9216
+#EXTINF:-1 group-title="VTVCab",VTVcab 4 (HD 8.5Mbps)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.190:10924
+#EXTINF:-1 group-title="VTVCab",VTVCab5-E Channel
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.193:9132
+#EXTINF:-1 group-title="VTVCab",VTVCab6-Hay TV
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.220:9294
+#EXTINF:-1 group-title="VTVCab",VTVCab7 O2TV
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.26:8130
+#EXTINF:-1 group-title="VTVCab",VTVCab8-BiBi
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.206:9210
+#EXTINF:-1 group-title="VTVCab",VTVcab 9 InfoTV
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.191:10930
+#EXTINF:-1 group-title="VTVCab",VTVCab10-Dramas
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.205:9204
+#EXTINF:-1 group-title="VTVCab",VTVCab11
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.229:9348
+#EXTINF:-1 group-title="VTVCab",VTVCab12-Style TV
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.244:9438
+#EXTINF:-1 group-title="VTVCab",VTVCap13-HYUNDAI
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.142:10386
+#EXTINF:-1 group-title="VTVCab",VTVcab 15
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.192:10936
+#EXTINF:-1 group-title="VTVCab",VTVCab16-Bóng đá TV HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.210:9234
+#EXTINF:-1 group-title="VTVCab",VTVCab17-yeah1 TV
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.217:9276
+#EXTINF:-1 group-title="VTVCab",VTVcab 18 THỂ THAO TIN TỨC HD (HD 8.5Mbps)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.193:10942
+#EXTINF:-1 group-title="VTVCab",VTVCab19-Dramas
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.169:8988
+#EXTINF:-1 group-title="VTVCab",VTVCab20-VFamily
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.245:10344
+#EXTINF:-1 group-title="VTVCab",VTVcab 23 GOLF TV (HD 8.5Mbps)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.246:10876
+#EXTINF:-1 group-title="VTVCab",VOV TV
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.46:8256
+#EXTINF:-1 group-title="VTVCab",VTVCab-MTV
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.82:8466
+#EXTINF:-1 group-title="Tin tức",VNEWS
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.125:10434
+#EXTINF:-1 group-title="Tin tức",QPVN
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.127:10816
+#EXTINF:-1 group-title="Tin tức",Quốc hội HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.234:10290
+#EXTINF:-1 group-title="Tin tức",Nhân Dân TV
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.124:10822
+#EXTINF:-1 group-title="Tin tức",An ninh TV
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.212:9246
+#EXTINF:-1 group-title="Địa phương",HCaTV-HITV
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.55:8310
+#EXTINF:-1 group-title="Địa phương",H1 HD _ TH Hà Nội (HD 6.5Mbps)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.143:10738
+#EXTINF:-1 group-title="Địa phương",H2 HD_ TH Hà Nội (HD 6.5Mbps)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.137:10744
+#EXTINF:-1 group-title="Địa phương",An Giang
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.110:8742
+#EXTINF:-1 group-title="Địa phương",Bà Rịa
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.73:8748
+#EXTINF:-1 group-title="Địa phương",Bạc Liêu
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.116:8766
+#EXTINF:-1 group-title="Địa phương",Bắc Giang
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.89:8754
+#EXTINF:-1 group-title="Địa phương",Bắc Kạn
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.92:8760
+#EXTINF:-1 group-title="Địa phương",Bến Tre
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.115:8778
+#EXTINF:-1 group-title="Địa phương",Bình Định
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.88:8784
+#EXTINF:-1 group-title="Địa phương",Bình Phước
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.90:8814
+#EXTINF:-1 group-title="Địa phương",Bình Thuận
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.77:8820
+#EXTINF:-1 group-title="Địa phương",Cà Mau
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.117:8826
+#EXTINF:-1 group-title="Địa phương",Đồng Tháp
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.154:8898
+#EXTINF:-1 group-title="Địa phương",Hà Giang
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.85:8910
+#EXTINF:-1 group-title="Địa phương",Hà Nam
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.82:8916
+#EXTINF:-1 group-title="Địa phương",Hậu Giang
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.112:8940
+#EXTINF:-1 group-title="Địa phương",Khánh Hoà
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.99:8958
+#EXTINF:-1 group-title="Địa phương",Lào Cai
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.93:8718
+#EXTINF:-1 group-title="Địa phương",Lâm Đồng
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.78:8976
+#EXTINF:-1 group-title="Địa phương",Long An 34
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.171:9000
+#EXTINF:-1 group-title="Địa phương",Ninh Bình
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.80:9018
+#EXTINF:-1 group-title="Địa phương",Ninh Thuận
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.74:9024
+#EXTINF:-1 group-title="Địa phương",Quảng Bình
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.98:9042
+#EXTINF:-1 group-title="Địa phương",Quảng Nam
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.81:9048
+#EXTINF:-1 group-title="Địa phương",Quảng Trị
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.105:9066
+#EXTINF:-1 group-title="Địa phương",Sóc Trăng
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.103:9072
+#EXTINF:-1 group-title="Địa phương",Sơn La
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.184:9078
+#EXTINF:-1 group-title="Địa phương",Tây Ninh 11
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.97:9084
+#EXTINF:-1 group-title="Địa phương",Tuyên Quang
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.91:9138
+#EXTINF:-1 group-title="Địa phương",Thái Bình
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.100:9090
+#EXTINF:-1 group-title="Địa phương",Vĩnh Phúc
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.83:9156
+#EXTINF:-1 group-title="Địa phương",Can Tho
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.118:8838
+#EXTINF:-1 group-title="Địa phương",Dak Lak
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.149:8868
+#EXTINF:-1 group-title="Địa phương",Thua Thien Hue
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.106:9120
+#EXTINF:-1 group-title="Địa phương",Tra Vinh
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.102:9114
+#EXTINF:-1 group-title="Địa phương",Yen Bai
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.75:9162
+#EXTINF:-1 group-title="Địa phương",Bắc Ninh HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.245:10506
+#EXTINF:-1 group-title="Địa phương",TN1 _ TH Thái Nguyên (HD 6.5Mbps)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.146:10774
+#EXTINF:-1 group-title="Địa phương",TN2 _ TH Thái Nguyên
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.123:9168
+#EXTINF:-1 group-title="Địa phương",PTV HD _ TH Phú Thọ (HD 7Mbps)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.148:10792
+#EXTINF:-1 group-title="Địa phương",QTV1 HD _ TH Quảng Ninh (HD 6.5Mbps)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.248:10978
+#EXTINF:-1 group-title="Địa phương",QTV3 HD _ TH Quảng Ninh (HD 6.5Mbps)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.249:10984
+#EXTINF:-1 group-title="Địa phương",THP HD _ TH TP. Hải Phòng (HD 6.5Mbps)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.142:10780
+#EXTINF:-1 group-title="Địa phương",HY HD _ TH Hưng Yên (HD 6.5Mbps)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.110:10786
+#EXTINF:-1 group-title="Địa phương",NTV HD _ TH Nghệ An (HD 6.5Mbps)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.198:10972
+#EXTINF:-1 group-title="Địa phương",HTTV HD _ TH Hà Tĩnh (HD 6.5Mbps)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.134:10768
+#EXTINF:-1 group-title="Địa phương",PTQ _ TH Quảng Ngãi (HD 5.5Mbps)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.126:10798
+#EXTINF:-1 group-title="Địa phương",BTV1 HD _ TH Bình Dương (HD 6.5Mbps)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.109:10750
+#EXTINF:-1 group-title="Địa phương",Bình Dương 2
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.137:8796
+#EXTINF:-1 group-title="Địa phương",Bình Dương 4-iMovie TV HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.156:10756
+#EXTINF:-1 group-title="Địa phương",THVL1 HD _ TH Vĩnh Long (HD 6.5Mbps)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.183:10882
+#EXTINF:-1 group-title="Địa phương",THVL2 HD _ TH Vĩnh Long (HD 6.5Mbps)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.184:10888
+#EXTINF:-1 group-title="Địa phương",THVL3 HD _ TH Vĩnh Long (HD 6.5Mbps)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.165:10900
+#EXTINF:-1 group-title="Địa phương",THVL4 HD _ TH Vĩnh Long (HD 6Mbps)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.160:10912
+#EXTINF:-1 group-title="Địa phương",KG _ TH Kiên Giang (HD 4Mbps)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.161:10918
+#EXTINF:-1 group-title="Địa phương",ĐTV _ TH Điện Biên
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.116:8880
+#EXTINF:-1 group-title="Địa phương",LTV _ TH Lai Châu
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.133:9174
+#EXTINF:-1 group-title="Địa phương",THD _ TH Hải Dương
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.113:8928
+#EXTINF:-1 group-title="Địa phương",NTV _ TH Nam Định
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.119:9006
+#EXTINF:-1 group-title="Địa phương",Đà Nẵng 1
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.146:8850
+#EXTINF:-1 group-title="Địa phương",DaNangTV2 _ TH TP. Đà Nẵng
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.122:8856
+#EXTINF:-1 group-title="Địa phương",PTP _ TH Phú Yên
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.108:10362
+#EXTINF:-1 group-title="Địa phương",KRT _ TH Kon Tum
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.115:8970
+#EXTINF:-1 group-title="Địa phương",THGL _ TH Gia Lai
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.138:8904
+#EXTINF:-1 group-title="Địa phương",PTD _ TH Đắk Nông
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.140:8874
+#EXTINF:-1 group-title="Địa phương",ĐNRTV1 HD _ TH Đồng Nai (HD 6Mbps)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.112:10762
+#EXTINF:-1 group-title="Địa phương",Đồng Nai 2
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.153:8892
+#EXTINF:-1 group-title="Địa phương",ĐNRTV9 Sky Shop
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.135:10476
+#EXTINF:-1 group-title="Địa phương",TTV HD _ TH Thanh Hóa (HD 6.5Mbps)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.198:11110
+#EXTINF:-1 group-title="Địa phương",BTV9 An Viên HD (HD 8.5Mbps)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.199:11116
+#EXTINF:-1 group-title="Địa phương",HBTV HD _ TH Hòa Bình (HD 8.5Mbps)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.213:11200
+#EXTINF:-1 group-title="Địa phương",CRTV HD _ TH Cao Bằng (HD 8.5Mbps)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.202:11134
+#EXTINF:-1 group-title="Địa phương",THTG HD _ TH Tiền Giang (HD 8.5Mbps)
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.204:11146
+#EXTINF:-1 group-title="KPlus",K+1
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.96:8550
+#EXTINF:-1 group-title="KPlus",K+1 HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.122:10314
+#EXTINF:-1 group-title="KPlus",K+NS
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.97:8556
+#EXTINF:-1 group-title="KPlus",K+NS HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.123:10320
+#EXTINF:-1 group-title="KPlus",K+PM
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.98:8562
+#EXTINF:-1 group-title="KPlus",K+PM HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.125:10326
+#EXTINF:-1 group-title="KPlus",K+PC
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.131:10368
+#EXTINF:-1 group-title="KPlus",K+PC HD
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.176:10374
+#EXTINF:-1 group-title="Khác",801
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.175:10858
+#EXTINF:-1 group-title="Khác",802
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.176:10864
+#EXTINF:-1 group-title="Khác",803
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.195:10954
+#EXTINF:-1 group-title="Khác",804
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.196:10960
+#EXTINF:-1 group-title="Khác",Meliã Hotels International
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.197:11080
+#EXTINF:-1 group-title="Khác",Vin Group 1
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.159:10422
+#EXTINF:-1 group-title="Khác",Vin Group 2
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.239:10302
+#EXTINF:-1 group-title="Khác",MyTV Test
+http://iptv-vnpt.dynu.net:12321/udp/232.84.3.195:11092
+#EXTINF:-1 group-title="Khác",MyTV Giới Thiệu Chương Trình
+http://iptv-vnpt.dynu.net:12321/udp/232.84.1.238:10296
+#EXTINF:-1 group-title="Khác",MyTV Quảng Cáo
+http://iptv-vnpt.dynu.net:12321/udp/232.84.2.56:10546
