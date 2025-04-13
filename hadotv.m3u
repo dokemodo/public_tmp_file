@@ -66,44 +66,6 @@ http://hado.duckdns.org:4022/udp/232.84.3.111:10666
 #EXTINF:0 tvg-id="spotv2" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (HD 9Mbps)
 http://hado.duckdns.org:4022/udp/232.84.3.129:10672
 
-#------------------------DRM------------------------#
-#EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ (DRM)
-http://hado.duckdns.org:4022/udp/232.84.1.220:9294
-#EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON EChannel (DRM)
-http://hado.duckdns.org:4022/udp/232.84.1.193:9132
-#EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports (DRM)
-http://hado.duckdns.org:4022/udp/232.84.1.208:9222
-#EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football (DRM)
-http://hado.duckdns.org:4022/udp/232.84.1.138:8802
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (DRM)
-http://hado.duckdns.org:4022/udp/232.84.1.122:10314
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (DRM)
-http://hado.duckdns.org:4022/udp/232.84.1.123:10320
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (DRM)
-http://hado.duckdns.org:4022/udp/232.84.1.125:10326
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
-http://hado.duckdns.org:4022/udp/232.84.1.176:10374
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (DRM)
-http://hado.duckdns.org:4022/udp/232.84.1.97:8556
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (DRM)
-http://hado.duckdns.org:4022/udp/232.84.1.96:8550
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (DRM)
-http://hado.duckdns.org:4022/udp/232.84.1.98:8562
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
-http://hado.duckdns.org:4022/udp/232.84.1.131:10368
-#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (DRM)
-http://hado.duckdns.org:4022/udp/232.84.2.141:10666
-#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (DRM)
-http://hado.duckdns.org:4022/udp/232.84.3.111:10666
-#EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (DRM)
-http://hado.duckdns.org:4022/udp/232.84.1.11:8040
-#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (DRM)
-http://hado.duckdns.org:4022/udp/232.84.2.142:10672
-#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (DRM)
-http://hado.duckdns.org:4022/udp/232.84.3.129:10672
-#EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (DRM)
-http://hado.duckdns.org:4022/udp/232.84.1.12:8046
-
 #------------------------VTVcab------------------------#
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports HD (HD 8Mbps)
 http://hado.duckdns.org:4022/udp/232.84.1.207:9216
@@ -329,6 +291,44 @@ http://hado.duckdns.org:4022/udp/232.84.3.45:11782
 http://hado.duckdns.org:4022/udp/232.84.3.210:11182
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/MwsiunI.png",Sahara One
 http://hado.duckdns.org:4022/udp/232.84.3.209:11176
+
+#------------------------DRM------------------------#
+#EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ (DRM)
+http://hado.duckdns.org:4022/udp/232.84.1.220:9294
+#EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON EChannel (DRM)
+http://hado.duckdns.org:4022/udp/232.84.1.193:9132
+#EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports (DRM)
+http://hado.duckdns.org:4022/udp/232.84.1.208:9222
+#EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football (DRM)
+http://hado.duckdns.org:4022/udp/232.84.1.138:8802
+#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (DRM)
+http://hado.duckdns.org:4022/udp/232.84.1.122:10314
+#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (DRM)
+http://hado.duckdns.org:4022/udp/232.84.1.123:10320
+#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (DRM)
+http://hado.duckdns.org:4022/udp/232.84.1.125:10326
+#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
+http://hado.duckdns.org:4022/udp/232.84.1.176:10374
+#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (DRM)
+http://hado.duckdns.org:4022/udp/232.84.1.97:8556
+#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (DRM)
+http://hado.duckdns.org:4022/udp/232.84.1.96:8550
+#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (DRM)
+http://hado.duckdns.org:4022/udp/232.84.1.98:8562
+#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
+http://hado.duckdns.org:4022/udp/232.84.1.131:10368
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (DRM)
+http://hado.duckdns.org:4022/udp/232.84.2.141:10666
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (DRM)
+http://hado.duckdns.org:4022/udp/232.84.3.111:10666
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (DRM)
+http://hado.duckdns.org:4022/udp/232.84.1.11:8040
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (DRM)
+http://hado.duckdns.org:4022/udp/232.84.2.142:10672
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (DRM)
+http://hado.duckdns.org:4022/udp/232.84.3.129:10672
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (DRM)
+http://hado.duckdns.org:4022/udp/232.84.1.12:8046
 
 #------------------------HTV/HTVC------------------------#
 #EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=7&time=${start}&offset=${duration}",HTV1 (HD 6Mbps)
