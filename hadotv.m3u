@@ -66,54 +66,6 @@ http://hado.duckdns.org:4022/udp/232.84.3.111:10666
 #EXTINF:0 tvg-id="spotv2" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (HD 9Mbps)
 http://hado.duckdns.org:4022/udp/232.84.3.129:10672
 
-#------------------------VTVcab------------------------#
-#EXTINF:0 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports HD (HD 8Mbps)
-http://hado.duckdns.org:4022/udp/232.84.1.207:9216
-#EXTINF:0 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ (HD 8Mbps)
-http://hado.duckdns.org:4022/udp/232.84.3.75:11602
-#EXTINF:0 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football HD (HD 8Mbps)
-http://hado.duckdns.org:4022/udp/232.84.1.210:9234
-#EXTINF:0 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News (HD 8Mbps)
-http://hado.duckdns.org:4022/udp/232.84.2.193:10942
-#EXTINF:0 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf (HD 8.5Mbps)
-http://hado.duckdns.org:4022/udp/232.84.2.246:10876
-#EXTINF:0 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf (HD 8.5Mbps)
-http://hado.duckdns.org:4022/udp/232.84.3.244:11386
-#EXTINF:0 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports HD (HD 8.5Mbps)
-http://hado.duckdns.org:4022/udp/232.84.3.242:11374
-#EXTINF:0 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football HD (HD 8.5Mbps)
-http://hado.duckdns.org:4022/udp/232.84.3.243:11380
-#EXTINF:0 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=197&time=${start}&offset=${duration}",ON Vie Giải Trí (HD 8Mbps)
-http://hado.duckdns.org:4022/udp/232.84.3.78:11584
-#EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=201&time=${start}&offset=${duration}",ON Vie Dramas (HD 8.5Mbps)
-http://hado.duckdns.org:4022/udp/232.84.3.218:11230
-#EXTINF:0 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=198&time=${start}&offset=${duration}",ON Phim Việt (HD 8Mbps)
-http://hado.duckdns.org:4022/udp/232.84.3.77:11590
-#EXTINF:0 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=435&time=${start}&offset=${duration}",ON Movies (HD 8.5Mbps)
-http://hado.duckdns.org:4022/udp/232.84.2.190:10924
-#EXTINF:0 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=202&time=${start}&offset=${duration}",ON EChannel (HD 8Mbps)
-http://hado.duckdns.org:4022/udp/232.84.3.76:11596
-#EXTINF:0 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=27&time=${start}&offset=${duration}",ON O2TV (HD 8Mbps)
-http://hado.duckdns.org:4022/udp/232.84.3.74:11608
-#EXTINF:0 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/YFmPo7l.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=205&time=${start}&offset=${duration}",ON BiBi (HD 8.5Mbps)
-http://hado.duckdns.org:4022/udp/232.84.3.217:11224
-#EXTINF:0 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=437&time=${start}&offset=${duration}",ON Info TV (HD 8Mbps)
-http://hado.duckdns.org:4022/udp/232.84.3.73:11614
-#EXTINF:0 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/6f9ngwY.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=204&time=${start}&offset=${duration}",ON Cine (HD 8Mbps)
-http://hado.duckdns.org:4022/udp/232.84.3.72:11620
-#EXTINF:0 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/6LQ0Z1O.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=206&time=${start}&offset=${duration}",ON Style TV (HD 8Mbps)
-http://hado.duckdns.org:4022/udp/232.84.3.71:11626
-#EXTINF:0 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=439&time=${start}&offset=${duration}",ON Music (HD 8Mbps)
-http://hado.duckdns.org:4022/udp/232.84.3.70:11632
-#EXTINF:0 tvg-id="vtvcab17hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=209&time=${start}&offset=${duration}",ON Trending TV (HD 8Mbps)
-http://hado.duckdns.org:4022/udp/232.84.3.69:11638
-#EXTINF:0 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=241&time=${start}&offset=${duration}",ON VFamily (HD 8Mbps)
-http://hado.duckdns.org:4022/udp/232.84.3.68:11644
-#EXTINF:0 tvg-id="vtvcab21hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/Y2SzhHG.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=742&time=${start}&offset=${duration}",ON Kids (HD 7Mbps)
-http://hado.duckdns.org:4022/udp/232.84.3.41:11806
-#EXTINF:0 tvg-id="vtvcab22hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/2xT5HFx.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=745&time=${start}&offset=${duration}",ON Life (HD 7Mbps)
-http://hado.duckdns.org:4022/udp/232.84.3.40:11812
-
 #------------------------Quốc Tế------------------------#
 #EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 11Mbps)
 http://hado.duckdns.org:4022/udp/232.84.3.101:10648
@@ -291,6 +243,54 @@ http://hado.duckdns.org:4022/udp/232.84.3.45:11782
 http://hado.duckdns.org:4022/udp/232.84.3.210:11182
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/MwsiunI.png",Sahara One
 http://hado.duckdns.org:4022/udp/232.84.3.209:11176
+
+#------------------------VTVcab------------------------#
+#EXTINF:0 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports HD (HD 8Mbps)
+http://hado.duckdns.org:4022/udp/232.84.1.207:9216
+#EXTINF:0 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ (HD 8Mbps)
+http://hado.duckdns.org:4022/udp/232.84.3.75:11602
+#EXTINF:0 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football HD (HD 8Mbps)
+http://hado.duckdns.org:4022/udp/232.84.1.210:9234
+#EXTINF:0 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News (HD 8Mbps)
+http://hado.duckdns.org:4022/udp/232.84.2.193:10942
+#EXTINF:0 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf (HD 8.5Mbps)
+http://hado.duckdns.org:4022/udp/232.84.2.246:10876
+#EXTINF:0 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf (HD 8.5Mbps)
+http://hado.duckdns.org:4022/udp/232.84.3.244:11386
+#EXTINF:0 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports HD (HD 8.5Mbps)
+http://hado.duckdns.org:4022/udp/232.84.3.242:11374
+#EXTINF:0 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football HD (HD 8.5Mbps)
+http://hado.duckdns.org:4022/udp/232.84.3.243:11380
+#EXTINF:0 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=197&time=${start}&offset=${duration}",ON Vie Giải Trí (HD 8Mbps)
+http://hado.duckdns.org:4022/udp/232.84.3.78:11584
+#EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=201&time=${start}&offset=${duration}",ON Vie Dramas (HD 8.5Mbps)
+http://hado.duckdns.org:4022/udp/232.84.3.218:11230
+#EXTINF:0 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=198&time=${start}&offset=${duration}",ON Phim Việt (HD 8Mbps)
+http://hado.duckdns.org:4022/udp/232.84.3.77:11590
+#EXTINF:0 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=435&time=${start}&offset=${duration}",ON Movies (HD 8.5Mbps)
+http://hado.duckdns.org:4022/udp/232.84.2.190:10924
+#EXTINF:0 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=202&time=${start}&offset=${duration}",ON EChannel (HD 8Mbps)
+http://hado.duckdns.org:4022/udp/232.84.3.76:11596
+#EXTINF:0 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=27&time=${start}&offset=${duration}",ON O2TV (HD 8Mbps)
+http://hado.duckdns.org:4022/udp/232.84.3.74:11608
+#EXTINF:0 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/YFmPo7l.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=205&time=${start}&offset=${duration}",ON BiBi (HD 8.5Mbps)
+http://hado.duckdns.org:4022/udp/232.84.3.217:11224
+#EXTINF:0 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=437&time=${start}&offset=${duration}",ON Info TV (HD 8Mbps)
+http://hado.duckdns.org:4022/udp/232.84.3.73:11614
+#EXTINF:0 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/6f9ngwY.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=204&time=${start}&offset=${duration}",ON Cine (HD 8Mbps)
+http://hado.duckdns.org:4022/udp/232.84.3.72:11620
+#EXTINF:0 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/6LQ0Z1O.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=206&time=${start}&offset=${duration}",ON Style TV (HD 8Mbps)
+http://hado.duckdns.org:4022/udp/232.84.3.71:11626
+#EXTINF:0 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=439&time=${start}&offset=${duration}",ON Music (HD 8Mbps)
+http://hado.duckdns.org:4022/udp/232.84.3.70:11632
+#EXTINF:0 tvg-id="vtvcab17hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=209&time=${start}&offset=${duration}",ON Trending TV (HD 8Mbps)
+http://hado.duckdns.org:4022/udp/232.84.3.69:11638
+#EXTINF:0 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=241&time=${start}&offset=${duration}",ON VFamily (HD 8Mbps)
+http://hado.duckdns.org:4022/udp/232.84.3.68:11644
+#EXTINF:0 tvg-id="vtvcab21hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/Y2SzhHG.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=742&time=${start}&offset=${duration}",ON Kids (HD 7Mbps)
+http://hado.duckdns.org:4022/udp/232.84.3.41:11806
+#EXTINF:0 tvg-id="vtvcab22hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/2xT5HFx.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=745&time=${start}&offset=${duration}",ON Life (HD 7Mbps)
+http://hado.duckdns.org:4022/udp/232.84.3.40:11812
 
 #------------------------DRM------------------------#
 #EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ (DRM)
