@@ -51,11 +51,11 @@ http://pi.4g-internet.info.vn:9999/udp/225.1.2.91:30120
 http://pi.4g-internet.info.vn:9999/udp/225.1.1.138:30120
 #EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network (HD 8Mbps)
 http://pi.4g-internet.info.vn:9999/udp/225.1.2.231:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World (HD 8Mbps)
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World (HD 8Mbps)
 http://pi.4g-internet.info.vn:9999/udp/225.1.1.142:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax (HD 8Mbps)
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax (HD 8Mbps)
 http://pi.4g-internet.info.vn:9999/udp/225.1.2.86:30120
-#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA (HD 8Mbps)
+#EXTINF:0 tvg-id="cna" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA (HD 8Mbps)
 http://pi.4g-internet.info.vn:9999/udp/225.1.1.202:30120
 #EXTINF:0 tvg-id="cnn" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN (HD 8Mbps)
 http://pi.4g-internet.info.vn:9999/udp/225.1.1.242:30120
@@ -98,7 +98,7 @@ http://pi.4g-internet.info.vn:9999/udp/225.1.1.227:30120
 
 
 
-#EXTINF:0 tvg-id="vtc16" group-title="VTC" tvg-logo="https://i.imgur.com/rltq2Dy.png",Viet Nam Today (HD 8Mbps)
+#EXTINF:0 tvg-id="vietnamtoday" group-title="VTC" tvg-logo="https://i.imgur.com/rltq2Dy.png",Viet Nam Today (HD 8Mbps)
 http://pi.4g-internet.info.vn:9999/udp/225.1.2.190:30120
 #EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel (HD 8Mbps)
 http://pi.4g-internet.info.vn:9999/udp/225.1.1.193:30120
@@ -140,7 +140,7 @@ http://pi.4g-internet.info.vn:9999/udp/225.1.1.74:30120
 http://pi.4g-internet.info.vn:9999/udp/225.1.2.168:30120
 #EXTINF:0 tvg-id="laichau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV HD _ TH Lai Châu (HD 8Mbps)
 http://pi.4g-internet.info.vn:9999/udp/225.1.2.36:30120
-#EXTINF:0 tvg-id="hagiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/h7uPIEP.png",HGTV _ TH Hà Giang (HD 8Mbps)
+#EXTINF:0 tvg-id="hgtv" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/h7uPIEP.png",HGTV _ TH Hà Giang (HD 8Mbps)
 http://pi.4g-internet.info.vn:9999/udp/225.1.1.62:30120
 #EXTINF:0 tvg-id="caobang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD _ TH Cao Bằng (HD 8Mbps)
 http://pi.4g-internet.info.vn:9999/udp/225.1.1.102:30120
