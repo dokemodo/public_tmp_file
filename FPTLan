@@ -37,7 +37,7 @@ http://pi.4g-internet.info.vn:9999/udp/225.1.1.231:30120
 http://pi.4g-internet.info.vn:9999/udp/225.1.1.198:30120
 #EXTINF:0 tvg-id="axnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (HD 8Mbps)
 http://pi.4g-internet.info.vn:9999/udp/225.1.2.225:30120
-#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CbeeBies (HD 8Mbps)
+#EXTINF:0 tvg-id="cbeebies" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CbeeBies (HD 8Mbps)
 http://pi.4g-internet.info.vn:9999/udp/225.1.1.134:30120
 #EXTINF:0 tvg-id="bbcearth" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth (HD 8Mbps)
 http://pi.4g-internet.info.vn:9999/udp/225.1.2.24:30120
