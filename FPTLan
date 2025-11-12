@@ -11,7 +11,7 @@ http://10.0.0.254:9999/udp/225.1.2.247:30120
 http://10.0.0.254:9999/udp/225.1.2.20:30120
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8Mbps)
 http://10.0.0.254:9999/udp/225.1.1.131:30120
-#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 8Mbps)
+#EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 8Mbps)
 http://10.0.0.254:9999/udp/225.1.2.245:30120
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (HD 8Mbps)
 http://10.0.0.254:9999/udp/225.1.2.96:30120
